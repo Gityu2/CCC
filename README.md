@@ -1,87 +1,111 @@
-## Setup
 
-##### Check your ~/.ssh/id_rsa.pub 
-`less ~/.ssh/id_rsa.pub` (Mac)
+<img src="https://i.gyazo.com/7e11f5c51083890f3f47d8615ec1908d.png" alt="Image from Gyazo" width="1086"/>
 
-`type ~/.ssh/id_rsa.pub` (Windows)
+## ■Title
 
-if you don't have `.ssh/id_rsa.pub`
+CCC
 
-`ssh-keygen -t rsa -C "your_github_email@example.com"` 
+※CCC = Customize / Compare / Communication
 
-Github > Settings > SSH and GPG keys
+## ■Overview
 
-##### install php 
-`php -v`
+This news site displays news from media around the world
 
-if you don't have any PHP version
+## ■Issue
 
+- Tons of news or information confuses people from getting the real facts.
+- The government's political consideration distorts the truth.
+- It takes time to compare each news site with each other.
 
-##### install mysql 
-if you don't have mysql `brew install mysql`
+## ■How to solve these issues
 
-##### 1. Clone repository
-`git clone git@github.com:kredo-grobal-it-intern/kredo_news.git`
+- To display news from news sites in different countries.
+- Keyword and country searches allow news on the same case to be displayed by country.
 
-##### 2. Go to your directory
-`cd Desktop`
+## ■User benefits
 
-`cd kredo_news`
+- This news site makes it easier to extract facts by comparing information.
+- This news site makes it easier to see the intentions and characteristics of each country.
+- This site reduces the time required to collect information, since news from each country can be viewed only on this site.
 
-##### 3. Create .env
-`cp .env.example .env`
+## ■Target
 
-##### 4. Modify .env L12
-<img width="400" alt="Screen Shot 2022-07-12 at 3 43 08 PM" src="https://user-images.githubusercontent.com/105486119/178426049-b936326c-e467-48d4-aca6-4b2103e5e6f0.png">
+- Especially for businessmen who don’t have much time to collect information.
 
-##### 5. Install Composer Libraries
-`composer install`
+## ■Site Structure(Overview)
+| |  |  |
+| :---: | :---: | :---: |
+| [![Image from Gyazo](https://i.gyazo.com/7a6f8e77b78a9197e6264329dfcce55e.png)](https://gyazo.com/7a6f8e77b78a9197e6264329dfcce55e)  | [![Image from Gyazo](https://i.gyazo.com/ae83d603f141da3fcf2e302ec19dbf38.png)](https://gyazo.com/ae83d603f141da3fcf2e302ec19dbf38)  | [![Image from Gyazo](https://i.gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f.png)](https://gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f) |
 
-##### 6. Setup Environment
-`mysql -u root -p`
+|  |  |  |
+| :---: | :---: | :---: |
+| [![Image from Gyazo](https://i.gyazo.com/923fed607e854ee341402cb95b735dac.jpg)](https://gyazo.com/923fed607e854ee341402cb95b735dac)  | [![Image from Gyazo](https://i.gyazo.com/5ee4b84adfd623f4cbe6df9fba226f77.jpg)](https://gyazo.com/5ee4b84adfd623f4cbe6df9fba226f77)  | [![Image from Gyazo](https://i.gyazo.com/630832b8e8f7f95925b2b18a0afc3813.png)](https://gyazo.com/630832b8e8f7f95925b2b18a0afc3813) |
 
-enter your password
+|  |  |  |
+| :---: | :---: | :---: |
+| [![Image from Gyazo](https://i.gyazo.com/204df6dfed4e9bdabe376547e6530402.png)](https://gyazo.com/204df6dfed4e9bdabe376547e6530402)  |[![Image from Gyazo](https://i.gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e.png)](https://gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e) |[![Image from Gyazo](https://i.gyazo.com/769187d3d9afe2270b04f62f77de80a8.png)](https://gyazo.com/769187d3d9afe2270b04f62f77de80a8) |
 
-`create database kredo_news;`
+| |  |  |
+| :---: | :---: | :---: |
+| [![Image from Gyazo](https://i.gyazo.com/2e5f2d111bd12583cde1ce0af01f008c.png)](https://gyazo.com/2e5f2d111bd12583cde1ce0af01f008c)  | [![Image from Gyazo](https://i.gyazo.com/bb4901feb704a1b6e991c1a50b514f7d.png)](https://gyazo.com/bb4901feb704a1b6e991c1a50b514f7d) |[![Image from Gyazo](https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png)](https://gyazo.com/99ae22de0ede45f2f993063df6e7df3d) |
 
-##### 7. Run migration and seeder
-`php artisan migrate`
+## ■Function
+<img src="https://i.gyazo.com/aa0ef15c18aa6252e5b42e8d40aeccb9.png" width=50%>
 
-`php artisan db:seed`
+## ■Features
+<img src="https://i.gyazo.com/37188c4d49aba832e157f6e1976a2485.png" width=50%>
 
-##### 8. make images folder & Run storage:link
-`mkdir storage/app/public/images`
+## ■How to proceed this project
+<table>
+  <tr>
+    <th>No.</th>
+    <th>Item</th>
+    <th>Tool</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td><a href="https://docs.google.com/document/d/1-7E0wb2ygGqYQI_WGOw-aFYexyTBZEFr/edit#heading=h.gjdgxs">Requirement definition document</a></td>
+    <td>Google document</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1l-OIbYxRKnTF3TklN7oQB-FJdFRAyg3O/edit#gid=772778396">Project timeline</a></td>
+    <td>Google spread sheet</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1-F6f2TumS74V91A9cT0pwxD-k4Nz382L/edit#gid=2106806343">DB design / URL design</a></td>
+    <td>Google spread sheet</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td><a href="https://docs.google.com/presentation/d/1-G7sQM4fU6ebHxHR6zKqS4vRA9kbLrf-/edit#slide=id.p11">Simple UI design</a></td>
+    <td>Google slide</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td><a href="https://www.figma.com/file/NGZnQ8Uumq0tUs75DInClo/CCC?node-id=0%3A1">UI design</a></td>
+    <td>Figma</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td><a href="https://docs.google.com/spreadsheets/d/1-3pKQpNcBUTzKaIYKHpHjmdemOd6-w4u/edit#gid=442711448">Test case list</a></td>
+    <td>Google spread sheet</td>
+  </tr>
+</table>
 
-`php artisan storage:link`
+## ■Test account / URL
 
-##### 9. Run npm
-`npm install` 
+◎User account
 
-if you didn't node plese install
-https://codelikes.com/mac-node-install/
+- Email : test1@test.com
+- PW     : password
 
-`npm run dev`
+◎Admin account
 
-##### 10. Set Application key
-`php artisan key:generate`
+- Email : admin@admin.com
+- PW     : password
 
-##### 11. Server start
-`php artisan serve`
+◎URL
 
-##### 12. Visit a website
-http://127.0.0.1:8000/
-
-##### Set Sequel Ace
-<img width="400" alt="Screen Shot 2022-06-10 at 4 32 39 PM" src="https://user-images.githubusercontent.com/105486119/173014301-bf3c0b08-ae1a-48fa-930b-d13a8f8674b7.png">
-
-Name: localhost/kredo_news
-
-HOST: localhost
-
-USERNAME: root
-
-PASSWORD:     
-
-DATABASE: kredo_news
-
-PORT: 3306
+[https://whispering-fortress-91546.herokuapp.com/](https://whispering-fortress-91546.herokuapp.com/)
