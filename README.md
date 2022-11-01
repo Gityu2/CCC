@@ -33,21 +33,25 @@ This news site displays news from media around the world
 - Especially for businessmen who don’t have much time to collect information.
 
 ## ■Site Structure(Overview)
-| |  |  |
-| :---: | :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/7a6f8e77b78a9197e6264329dfcce55e.png)](https://gyazo.com/7a6f8e77b78a9197e6264329dfcce55e)  | [![Image from Gyazo](https://i.gyazo.com/ae83d603f141da3fcf2e302ec19dbf38.png)](https://gyazo.com/ae83d603f141da3fcf2e302ec19dbf38)  | [![Image from Gyazo](https://i.gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f.png)](https://gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f) |
+| |  |  
+| :---: | :---: |
+| [![Image from Gyazo](https://i.gyazo.com/7a6f8e77b78a9197e6264329dfcce55e.png)](https://gyazo.com/7a6f8e77b78a9197e6264329dfcce55e)  | [![Image from Gyazo](https://i.gyazo.com/ae83d603f141da3fcf2e302ec19dbf38.png)](https://gyazo.com/ae83d603f141da3fcf2e302ec19dbf38)  | 
 
-|  |  |  |
-| :---: | :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/923fed607e854ee341402cb95b735dac.jpg)](https://gyazo.com/923fed607e854ee341402cb95b735dac)  | [![Image from Gyazo](https://i.gyazo.com/5ee4b84adfd623f4cbe6df9fba226f77.jpg)](https://gyazo.com/5ee4b84adfd623f4cbe6df9fba226f77)  | [![Image from Gyazo](https://i.gyazo.com/630832b8e8f7f95925b2b18a0afc3813.png)](https://gyazo.com/630832b8e8f7f95925b2b18a0afc3813) |
+| |  |  
+| :---: | :---: |
+| [![Image from Gyazo](https://i.gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f.png)](https://gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f) | [![Image from Gyazo](https://i.gyazo.com/923fed607e854ee341402cb95b735dac.jpg)](https://gyazo.com/923fed607e854ee341402cb95b735dac)  |
 
-|  |  |  |
-| :---: | :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/204df6dfed4e9bdabe376547e6530402.png)](https://gyazo.com/204df6dfed4e9bdabe376547e6530402)  |[![Image from Gyazo](https://i.gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e.png)](https://gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e) |[![Image from Gyazo](https://i.gyazo.com/769187d3d9afe2270b04f62f77de80a8.png)](https://gyazo.com/769187d3d9afe2270b04f62f77de80a8) |
+| |  |  
+| :---: | :---: |
+| [![Image from Gyazo](https://i.gyazo.com/204df6dfed4e9bdabe376547e6530402.png)](https://gyazo.com/204df6dfed4e9bdabe376547e6530402) | [![Image from Gyazo](https://i.gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e.png) |
 
-| |  |  |
-| :---: | :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/2e5f2d111bd12583cde1ce0af01f008c.png)](https://gyazo.com/2e5f2d111bd12583cde1ce0af01f008c)  | [![Image from Gyazo](https://i.gyazo.com/bb4901feb704a1b6e991c1a50b514f7d.png)](https://gyazo.com/bb4901feb704a1b6e991c1a50b514f7d) |[![Image from Gyazo](https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png)](https://gyazo.com/99ae22de0ede45f2f993063df6e7df3d) |
+| |  |  
+| :---: | :---: |
+| [![Image from Gyazo](https://i.gyazo.com/769187d3d9afe2270b04f62f77de80a8.png)](https://gyazo.com/769187d3d9afe2270b04f62f77de80a8) | [![Image from Gyazo](https://i.gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e.png) |
+
+| |  |  
+| :---: | :---: | 
+|  [![Image from Gyazo](https://i.gyazo.com/bb4901feb704a1b6e991c1a50b514f7d.png)](https://gyazo.com/bb4901feb704a1b6e991c1a50b514f7d) |[![Image from Gyazo](https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png)](https://gyazo.com/99ae22de0ede45f2f993063df6e7df3d) |
 
 ## ■Function
 <img src="https://i.gyazo.com/aa0ef15c18aa6252e5b42e8d40aeccb9.png" width=50%>
