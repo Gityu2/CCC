@@ -35,29 +35,6 @@ This news site displays news from media around the world
 ## ■Site Structure(Overview)
 | |  |  
 | :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/7a6f8e77b78a9197e6264329dfcce55e.png)](https://gyazo.com/7a6f8e77b78a9197e6264329dfcce55e)  | [![Image from Gyazo](https://i.gyazo.com/ae83d603f141da3fcf2e302ec19dbf38.png)](https://gyazo.com/ae83d603f141da3fcf2e302ec19dbf38)  | 
-
-| |  |  
-| :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f.png)](https://gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f) | [![Image from Gyazo](https://i.gyazo.com/923fed607e854ee341402cb95b735dac.jpg)](https://gyazo.com/923fed607e854ee341402cb95b735dac)  |
-
-| |  |  
-| :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/204df6dfed4e9bdabe376547e6530402.png)](https://gyazo.com/204df6dfed4e9bdabe376547e6530402) | [![Image from Gyazo](https://i.gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e.png) |
-
-| |  |  
-| :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/e09dfff0c8b072409fb066d9beb43c03.png)](https://gyazo.com/e09dfff0c8b072409fb066d9beb43c03) | [![Image from Gyazo](https://i.gyazo.com/0ce5595b8dcace59148d6b38eaf52df4.png)](https://gyazo.com/0ce5595b8dcace59148d6b38eaf52df4)  |
-
-
-
-| |  |  
-| :---: | :---: | 
-|  [![Image from Gyazo](https://i.gyazo.com/b47f128c9e8d03c309abd9f56d8f1f2d.png)](https://gyazo.com/b47f128c9e8d03c309abd9f56d8f1f2d) |[![Image from Gyazo](https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png)](https://gyazo.com/99ae22de0ede45f2f993063df6e7df3d) |
-
-## ■Site Structure(Overview)
-| |  |  
-| :---: | :---: |
 | <img src="https://i.gyazo.com/7a6f8e77b78a9197e6264329dfcce55e.png">  | <img src="https://i.gyazo.com/ae83d603f141da3fcf2e302ec19dbf38.png"> | 
 
 | |  |  
@@ -75,12 +52,11 @@ This news site displays news from media around the world
 | |  |  
 | :---: | :---: |
 | <img src="https://i.gyazo.com/e09dfff0c8b072409fb066d9beb43c03.png">  | <img src="https://i.gyazo.com/0ce5595b8dcace59148d6b38eaf52df4.png"> | 
+
 | |  |  
 | :---: | :---: |
 | <img src="https://i.gyazo.com/b47f128c9e8d03c309abd9f56d8f1f2d.png">  | <img src="https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png"> | 
-| |  |  
-| :---: | :---: |
-| <img src="https://i.gyazo.com/.png">  | <img src="https://i.gyazo.com/.png"> | 
+
 
 
 ## ■Function
