@@ -57,8 +57,6 @@ This news site displays news from media around the world
 | :---: | :---: |
 | <img src="https://i.gyazo.com/b47f128c9e8d03c309abd9f56d8f1f2d.png">  | <img src="https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png"> | 
 
-
-
 ## ■Function
 <img src="https://i.gyazo.com/aa0ef15c18aa6252e5b42e8d40aeccb9.png" width=50%>
 
