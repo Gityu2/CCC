@@ -47,17 +47,49 @@ This news site displays news from media around the world
 
 | |  |  
 | :---: | :---: |
-| [![Image from Gyazo](https://i.gyazo.com/769187d3d9afe2270b04f62f77de80a8.png)](https://gyazo.com/769187d3d9afe2270b04f62f77de80a8) | [![Image from Gyazo](https://i.gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e.png) |
+| [![Image from Gyazo](https://i.gyazo.com/e09dfff0c8b072409fb066d9beb43c03.png)](https://gyazo.com/e09dfff0c8b072409fb066d9beb43c03) | [![Image from Gyazo](https://i.gyazo.com/0ce5595b8dcace59148d6b38eaf52df4.png)](https://gyazo.com/0ce5595b8dcace59148d6b38eaf52df4)  |
+
+
 
 | |  |  
 | :---: | :---: | 
-|  [![Image from Gyazo](https://i.gyazo.com/bb4901feb704a1b6e991c1a50b514f7d.png)](https://gyazo.com/bb4901feb704a1b6e991c1a50b514f7d) |[![Image from Gyazo](https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png)](https://gyazo.com/99ae22de0ede45f2f993063df6e7df3d) |
+|  [![Image from Gyazo](https://i.gyazo.com/b47f128c9e8d03c309abd9f56d8f1f2d.png)](https://gyazo.com/b47f128c9e8d03c309abd9f56d8f1f2d) |[![Image from Gyazo](https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png)](https://gyazo.com/99ae22de0ede45f2f993063df6e7df3d) |
+
+## ■Site Structure(Overview)
+| |  |  
+| :---: | :---: |
+| <img src="https://i.gyazo.com/7a6f8e77b78a9197e6264329dfcce55e.png">  | <img src="https://i.gyazo.com/ae83d603f141da3fcf2e302ec19dbf38.png"> | 
+
+| |  |  
+| :---: | :---: |
+| <img src="https://i.gyazo.com/514b00ccb8ef1242a58dfc60aaa7203f.png">  | <img src="https://i.gyazo.com/923fed607e854ee341402cb95b735dac.jpg"> | 
+
+| |  |  
+| :---: | :---: |
+| <img src="https://i.gyazo.com/28fda42a9d94e9772bb968673a1164f1.png">  | <img src="https://i.gyazo.com/9b9a4e5ec6e7d97d32f85823463755d5.png"> | 
+
+| |  |  
+| :---: | :---: |
+| <img src="https://i.gyazo.com/204df6dfed4e9bdabe376547e6530402.png">  | <img src="https://i.gyazo.com/f04dd6a0b9328d6b508e2c409b44f02e.png"> | 
+
+| |  |  
+| :---: | :---: |
+| <img src="https://i.gyazo.com/e09dfff0c8b072409fb066d9beb43c03.png">  | <img src="https://i.gyazo.com/0ce5595b8dcace59148d6b38eaf52df4.png"> | 
+| |  |  
+| :---: | :---: |
+| <img src="https://i.gyazo.com/b47f128c9e8d03c309abd9f56d8f1f2d.png">  | <img src="https://i.gyazo.com/99ae22de0ede45f2f993063df6e7df3d.png"> | 
+| |  |  
+| :---: | :---: |
+| <img src="https://i.gyazo.com/.png">  | <img src="https://i.gyazo.com/.png"> | 
+
 
 ## ■Function
 <img src="https://i.gyazo.com/aa0ef15c18aa6252e5b42e8d40aeccb9.png" width=50%>
 
 ## ■Features
-<img src="https://i.gyazo.com/37188c4d49aba832e157f6e1976a2485.png" width=50%>
+<img src="https://i.gyazo.com/696055c35c82b12a9d203a7d95b956ed.png" width=50%>
+
+[![Image from Gyazo](https://i.gyazo.com/696055c35c82b12a9d203a7d95b956ed.png)](https://gyazo.com/696055c35c82b12a9d203a7d95b956ed)
 
 ## ■How to proceed this project
 <table>
