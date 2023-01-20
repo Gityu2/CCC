@@ -116,4 +116,4 @@ This news site displays news from media around the world
 
 ◎URL
 
-[https://whispering-fortress-91546.herokuapp.com/](https://whispering-fortress-91546.herokuapp.com/)
+[https://maple-route.conohawing.com/](https://maple-route.conohawing.com/)
